@@ -1,0 +1,8 @@
+.fc{
+    background-image: url("https://i.pinimg.com/originals/d1/bf/37/d1bf3767dc1aeb21f9ffe0b1f77720de.jpg");
+    height: 100vh;
+    overflow:  hidden !important;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
