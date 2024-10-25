@@ -6,3 +6,10 @@
     align-items: center;
     display: flex;
 }
+.btn-danger{
+    background-color: #FCFD0C !important;
+    color: black !important;
+    font-weight: 700 !important;
+    border:2px solid  #FCFD0C !important;
+    border-radius: 4px !important;
+}
