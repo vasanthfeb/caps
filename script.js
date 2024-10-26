@@ -21,3 +21,8 @@ function cpy(){
     navigator.clipboard.writeText(answer);
     alert("Text Copied !")
 }
+function cap(){
+    let answer=document.getElementById("user_input").value;
+    answer=answer.style.color="red";
+    document.getElementById("user_input").value=answer;
+}
