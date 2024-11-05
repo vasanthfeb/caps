@@ -21,3 +21,9 @@ function cpy(){
     navigator.clipboard.writeText(answer);
     alert("Text Copied !")
 }
+
+
+function test(){
+   let answer= document.getElementById('user_input').style.textTransform="capitalize";
+   document.getElementById("user_input").value=answer;
+}
